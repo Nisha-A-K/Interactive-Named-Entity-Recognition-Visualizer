@@ -1,3 +1,2 @@
-streamlit
-spacy==3.4.4
+pacy==3.4.4  
 en-core-web-sm==3.4.1
