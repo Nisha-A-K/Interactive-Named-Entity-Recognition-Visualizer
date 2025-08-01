@@ -1,4 +1,1 @@
 streamlit
-https://files.pythonhosted.org/packages/bd/48/7571a4701250fc239031737e8df6a7c379f8d55a9c7d4323e167908b3528/blis-0.7.9-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
-spacy==3.4.4
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
